@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/megaploit-community/.github/main/profile/banner.png" width="100%" alt="megaploit-community">
-
 # megaploit-community
 
 **Open community for the [Megaploit C2](https://github.com/Josefifir/Megaploit) framework.**  
